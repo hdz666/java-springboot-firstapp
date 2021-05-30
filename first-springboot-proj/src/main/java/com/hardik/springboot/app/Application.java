@@ -9,7 +9,9 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Profile;
 
 @SpringBootApplication
-@ComponentScan("com.hardik.springboot.app")
+
+
+
 public class Application {
 	
 	public static void main(String[] args) {
